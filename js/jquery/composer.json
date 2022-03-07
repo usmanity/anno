@@ -18,7 +18,7 @@
         }
     ],
     "require": {
-        "robloach/component-installer": "*"
+        "robloach/component-installer": "0.2.3"
     },
     "extra": {
         "component": {
